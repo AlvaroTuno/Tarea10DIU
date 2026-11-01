@@ -13,8 +13,8 @@ Continue developing this project in the [Lovable editor](https://lovable.dev/pro
 - **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
-Debe tener instalado una version 20 o superior de Node.js 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- Debe tener instalado una version 20 o superior de Node.js 
+- Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
 git clone <this-repository-url>
