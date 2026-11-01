@@ -1,0 +1,66 @@
+{
+  "source": "github-code-archive",
+  "capabilities": [
+    {
+      "capability": "code, routes and design",
+      "source": "uploaded ZIP",
+      "outcome": "preserve complete source app",
+      "status": "verified",
+      "next_action": null
+    },
+    {
+      "capability": "PAES calculation and PDF exports",
+      "source": "src/lib",
+      "outcome": "preserve",
+      "status": "verified",
+      "next_action": null
+    },
+    {
+      "capability": "browser-only demonstration registration",
+      "source": "postulacion.tsx",
+      "outcome": "preserve explicitly simulated registration and browser draft",
+      "status": "verified",
+      "next_action": null
+    },
+    {
+      "capability": "database, records, auth identities and authorization",
+      "source": "manifest and source inspection",
+      "outcome": "not detected; static app with browser-only simulation",
+      "status": "not_applicable",
+      "next_action": null
+    },
+    {
+      "capability": "uploaded assets",
+      "source": "hero-campus.jpg",
+      "outcome": "host through app asset flow",
+      "status": "verified",
+      "next_action": null
+    },
+    {
+      "capability": "providers, endpoints, callbacks, webhooks, schedules and secrets",
+      "source": "source inspection",
+      "outcome": "none detected; preserve official external links",
+      "status": "not_applicable",
+      "next_action": null
+    },
+    {
+      "capability": "cutover",
+      "source": "current project",
+      "outcome": "preview only; no publication requested",
+      "status": "not_applicable",
+      "next_action": null
+    },
+    {
+      "capability": "verification",
+      "source": "all imported routes",
+      "outcome": "desktop and phone checks",
+      "status": "verified",
+      "next_action": null
+    }
+  ],
+  "limitations": [
+    "The source archive contains no /becas, /redes, or /tour pages; their same-origin destinations are retained and display 404.",
+    "No live source URL was accessible, so source/preview visual comparison and source motion were not verified.",
+    "Source career and event data remain referential, with missing fields and explicitly simulated registration unchanged."
+  ]
+}

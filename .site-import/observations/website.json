@@ -1,0 +1,210 @@
+{
+  "source": "uploaded source archive",
+  "source_visual_review": "blocked: source URL unavailable",
+  "preview_controls": [
+    {
+      "route": "http://localhost:8080/",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "home",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-home.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "menu",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-menu.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "footer",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-footer.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/carreras/ingenieria-civil-informatica",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "profile",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-profile.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/carreras/ingenieria-civil-informatica",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "plan",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-plan.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/simulador?carrera=ingenieria-civil-informatica",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "simulator-result",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-simulator-result.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/actividades/postulacion-centralizada-2027",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "event-detail",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-event-detail.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/postulacion",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "confirmation",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-confirmation.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/postulacion",
+      "viewport": [
+        1280,
+        1800
+      ],
+      "control": "receipt",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/1280-receipt.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "home",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-home.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "menu",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-menu.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "footer",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-footer.png",
+      "scroll": 1233
+    },
+    {
+      "route": "http://localhost:8080/carreras/ingenieria-civil-informatica",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "profile",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-profile.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/carreras/ingenieria-civil-informatica",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "plan",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-plan.png",
+      "scroll": 508
+    },
+    {
+      "route": "http://localhost:8080/simulador?carrera=ingenieria-civil-informatica",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "simulator-result",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-simulator-result.png",
+      "scroll": 300
+    },
+    {
+      "route": "http://localhost:8080/actividades/postulacion-centralizada-2027",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "event-detail",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-event-detail.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/postulacion",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "confirmation",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-confirmation.png",
+      "scroll": 0
+    },
+    {
+      "route": "http://localhost:8080/postulacion",
+      "viewport": [
+        390,
+        844
+      ],
+      "control": "receipt",
+      "status": "passed",
+      "screenshot": "/tmp/browser/import-check/390-receipt.png",
+      "scroll": 0
+    }
+  ],
+  "missing_source_pages": [
+    "/becas",
+    "/redes",
+    "/tour"
+  ],
+  "additional_checks": "All 14 content URLs rendered at desktop and phone widths; menu Escape closing, full scroll, PDF downloads and browser draft reload passed."
+}
